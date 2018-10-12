@@ -1,1 +1,1 @@
-eyzalts: node bot.py
+worker: node bot.py
